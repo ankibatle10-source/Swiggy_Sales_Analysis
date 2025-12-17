@@ -3,9 +3,9 @@
 
 ## Project Overview
 
-This project presents an **end-to-end sales analysis dashboard for Swiggy** built using **Microsoft Excel**. The objective is to transform raw order data into meaningful business insights through KPIs, trend analysis, and interactive visualizations aligned with a Business Requirement Document (BRD).
+This project presents an end-to-end sales analysis dashboard for Swiggy built using Microsoft Excel. The objective is to transform raw order data into meaningful business insights through KPIs, trend analysis, and interactive visualizations aligned with a Business Requirement Document (BRD).
 
-The dashboard is designed to support **business decision-making** by tracking revenue performance, customer behavior, geographic trends, and operational consistency over time.
+The dashboard is designed to support business decision-making by tracking revenue performance, customer behavior, geographic trends, and operational consistency over time.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ## Business Problem Statement
@@ -22,11 +22,11 @@ This dashboard addresses these needs using clearly defined KPIs and analytical c
 ------------------------------------------------------------------------------------------
 ## Key KPIs (BRD – KPIs)
 
-* **Total Sales (₹)**: ₹53.01M – Overall revenue generated from food orders
-* **Average Rating**: 4.34 – Customer satisfaction across restaurants
-* **Average Order Value (₹)**: ₹268.51 – Revenue per order
-* **Rating Count**: 5.59M – Total customer reviews received
-* **Total Orders**: 197.43K – Number of orders placed
+* Total Sales (₹): ₹53.01M – Overall revenue generated from food orders
+* Average Rating: 4.34 – Customer satisfaction across restaurants
+* Average Order Value (₹): ₹268.51 – Revenue per order
+* Rating Count: 5.59M – Total customer reviews received
+* Total Orders: 197.43K – Number of orders placed
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -47,8 +47,7 @@ This dashboard addresses these needs using clearly defined KPIs and analytical c
 * Monitors week-wise sales consistency
 * Identifies spikes and demand volatility
 
-## 4. Sales by Food Type (Veg vs Non-Veg)
-
+## 4. Sales by Food Type (Veg vs Non-Veg
 * Compares revenue contribution by food category
 * Supports menu and marketing strategy decisions
 
@@ -59,7 +58,7 @@ This dashboard addresses these needs using clearly defined KPIs and analytical c
 
 ## 6. Quarterly Performance Summary
 
-* Combines **Sales, Ratings, and Orders** by quarter
+* Combines Sales, Ratings, and Orders by quarter
 * Enables performance benchmarking over time
 
 ## 7. Top States by Sales
@@ -97,6 +96,7 @@ This dashboard addresses these needs using clearly defined KPIs and analytical c
 * Karnataka and other metro-driven states contribute the highest revenue
 ----------------------------------------------------------------------------------------------------------
 Dashboard Interaction :
+**https://github.com/ankibatle10-source/Swiggy_Sales_Analysis/blob/main/Swiggy%20DB%20imp.png**
 
 
 
