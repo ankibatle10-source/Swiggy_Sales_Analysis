@@ -1,4 +1,4 @@
-### Swiggy Sales Analysis Dashboard (Excel)
+## Swiggy Sales Analysis Dashboard (Excel)
 
 
 ## Project Overview
