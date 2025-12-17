@@ -95,7 +95,8 @@ This dashboard addresses these needs using clearly defined KPIs and analytical c
 * Non-Veg food contributes a larger share of total sales than Veg
 * Karnataka and other metro-driven states contribute the highest revenue
 ----------------------------------------------------------------------------------------------------------
-Dashboard Interaction :
+## Dashboard Interaction:
+
 **https://github.com/ankibatle10-source/Swiggy_Sales_Analysis/blob/main/Swiggy%20DB%20imp.png**
 
 
